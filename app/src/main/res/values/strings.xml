@@ -13,4 +13,8 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="my_app_name">Personal Trainer Scheduler</string>
+    <string name="successful_login">Success</string>
+    <string name="user_name">jdoe</string>
+    <string name="password">welcome1</string>
 </resources>
